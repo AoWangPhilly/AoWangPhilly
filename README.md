@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi there, I'm Ao Wang! 👨‍💻
 
-<!--
-**AoWangPhilly/AoWangPhilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a sophomore Computer Science major at Drexel University. In Fall 2020, I'll be working as a Software Developer Co-op at Vanguard! I'm currently based in Philadelphia, PA.
 
-Here are some ideas to get you started:
+Since my freshman year of high school, I've always enjoyed programming. The first thing I ever programmed was my TI-84 calculator, and I still love it. Now, I'm trying to get into competitive programming and creating a ton of fun applications! 🤩
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learn more!
+- 🔭 I’m currently working on ... RedHanded, a web app visualizing all the crimes in Philadelphia from 2006-2020
+- 🌱 I’m currently learning ... ReactJS and C++!
+- 👯 I’m looking to collaborate on ... Fun projects 🖥️ 
+- 💬 Ask me about ... Anything!
+- 📫 How to reach me: ... aw3338@drexel.edu
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I'm a red-panda 🐼
+
+## Github Statistics
+![AoWangPhilly's github stats](https://github-readme-stats.vercel.app/api?username=aowangphilly&count_private=true&show_icons=true&theme=dark)
+
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aowangphilly&layout=compact)](https://github.com/aowangphilly/github-readme-stats)
+
+## Find Me Elsewhere 🌎
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aowang0/)
