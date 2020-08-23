@@ -2,7 +2,7 @@
 
 I'm currently a sophomore Computer Science major at Drexel University. In Fall 2020, I'll be working as a Software Developer Co-op at Vanguard! I'm currently based in Philadelphia, PA.
 
-Since my freshman year of high school, I've always enjoyed programming. The first thing I ever programmed was my TI-84 calculator, and I still love it. Now, I'm trying to get into competitive programming and creating a ton of fun applications! 🤩
+Since my freshman year of high school, I've always enjoyed programming. The first thing I ever programmed was my TI-84 calculator, and I still love it. Now, I'm trying to get into competitive programming and create a ton of fun applications! 🤩
 
 ## Learn more!
 - 🔭 I’m currently working on ... RedHanded, a web app visualizing all the crimes in Philadelphia from 2006-2020
