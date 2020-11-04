@@ -13,11 +13,4 @@ Since my freshman year of high school, I've always enjoyed programming. The firs
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm a red-panda 🐼
 
-## Github Statistics
-![AoWangPhilly's github stats](https://github-readme-stats.vercel.app/api?username=aowangphilly&count_private=true&show_icons=true&theme=dark)
-
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aowangphilly&layout=compact)](https://github.com/aowangphilly/github-readme-stats)
-
-## Find Me Elsewhere 🌎
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aowang0/)
