@@ -1,6 +1,6 @@
 ## Hi there, I'm Ao Wang! 👨‍💻
 
-I'm currently a junior Computer Science major at Drexel University and based in Philadelphia, PA.
+I'm currently a senior Computer Science major at Drexel University and based in Philadelphia, PA.
 
 Since my freshman year of high school, I've always enjoyed programming. The first thing I ever programmed was my TI-84 calculator, and I still love it. Now, I'm trying to get into competitive programming and create a ton of fun applications! 🤩
 
