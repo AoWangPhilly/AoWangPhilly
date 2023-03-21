@@ -4,10 +4,6 @@ I'm currently a senior Computer Science major at Drexel University and based in 
 
 Since my freshman year of high school, I've always enjoyed programming. The first thing I ever programmed was my TI-84 calculator, and I still love it. Now, I'm trying to get into competitive programming and create a ton of fun applications! 🤩
 
-
-![my github activity graph](https://activity-graph.herokuapp.com/graph?username=AoWangPhilly&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true)
-
-
 ## Learn more!
 - 🔭 I’m currently working on ... RedHanded, a web app visualizing all the crimes in Philadelphia from 2006-2020
 - 🌱 I’m currently learning ... PySpark and FastAPI!
