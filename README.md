@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=42&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=70&lines=Hi%2C+Ao+here!+Welcome+to+my+profile+!+👨‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=42&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=70&lines=Hi%2C+Ao+here!+Welcome+to+my+profile+!+👨‍💻)](https://git.io/typing-svg)
 
 <img src="assets/borderseperator.gif">
 
