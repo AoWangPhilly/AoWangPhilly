@@ -2,17 +2,7 @@
 
 <img src="assets/borderseperator.gif">
 
-<img align='right' src="assets/nightlife.webp" width="350" alt="HyunSun's Dev Card" />
-
-<h2 align="center"> Self-taught, curious, and passionate about coding!</h2>
-
-- 🌳 I’m currently learning data engineering technologies: PySpark, AWS, and GCP <br><br>
-
-- 🐾 I’m looking to network and make friends here! <br><br>
-
-- 🌊 2023 Goals: Create more fun data science web and mobile apps <br><br>
-
-- ☕ Interest: Cooking, Sleeping, and Coding. <br><br>
+Work in Progress!!
 
 <img src="assets/borderseperator.gif">
   <h3 align="center">Connect with me!</h3>
